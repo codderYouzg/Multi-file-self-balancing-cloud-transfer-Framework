@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RmiMapping>
+	<mapping interface="edu.youzg.resource_founder.core.IResourceHolder"
+	class="edu.youzg.resource_founder.core.ResourceHolderImpl"></mapping>
+	<mapping interface="edu.youzg.multifile_cloud_transfer.sender.IResourceSender"
+	class="edu.youzg.multifile_cloud_transfer.sender.ResourceSender"></mapping>
+</RmiMapping>

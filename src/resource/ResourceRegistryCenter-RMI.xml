@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RmiMapping>
+    <mapping interface="edu.youzg.resource_founder.center.IResourceCenter"
+             class="edu.youzg.resource_founder.center.ResourceCenterImpl"></mapping>
+</RmiMapping>
